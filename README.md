@@ -8,9 +8,9 @@ Features:
 6. Utilizes Azure Redis Cache for efficient and fast data retrieval.
 
 ## Tools and Technologies Used:
-React and Tailwind CSS styling for frontend development.
-FAST API for backend development.
-MongoDB (MongoDB Atlas and Compass) used for database management.
-Azure Redis used for caching.
-Created a resource group on Microsoft Azure to deploy the application, utilizing Azure Web App for backend and Static Web App for frontend.
+1. React and Tailwind CSS styling for frontend development.
+2. FAST API for backend development.
+3. MongoDB (MongoDB Atlas and Compass) used for database management.
+4. Azure Redis used for caching.
+5. Created a resource group on Microsoft Azure to deploy the application, utilizing Azure Web App for backend and Static Web App for frontend.
 
